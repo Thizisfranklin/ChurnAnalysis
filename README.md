@@ -43,5 +43,5 @@ The goal is to identify at-risk customers and compare multiple ML models, with a
 - **ML**: scikit-learn (LogisticRegression, RandomForest, SVM, KNN), imbalanced-learn (SMOTE)  
 - **Environment**: Jupyter / Google Colab  
 
-This project is designed to reflect how my thought process on how to tackle a real churn problem:  
+This project is designed to reflect my thought process on how to tackle a real churn problem:  
 **structured workflow, solid EDA, correct ML and SMOTE usage, and clear, business-aware evaluation.**
